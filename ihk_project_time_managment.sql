@@ -183,7 +183,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `forename`, `surname`, `username`, `password`, `email`) VALUES
-(1, 'tester', 'testmann', 'tester', 'tes', 'test@g.nu'),
+(1, 'tester', 'testmann', 'tester', 'test', 'test@g.nu'),
 (2, 'udo', 'erster', 'u1', 'u1', 'udo@er.du'),
 (3, 'anta', 'tare', 'anat', 'anat', 'anat@ewm.bg'),
 (4, 'mert', 'cortois', 'merc', 'merc', 'merc@uri.uli'),
