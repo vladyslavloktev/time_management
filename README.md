@@ -10,5 +10,5 @@ you can use the sql-file by importing it into your own Databank
 
 ### Login
 
-user: tester ~ password: test
-otehr users can be found in user-table
+user: **tester** ~ password: **test**
+other users can be found in user-table
