@@ -1,0 +1,37 @@
+
+#login{
+    height: 3.9%;
+    width: 3.9%;
+}
+
+#fail{
+    color: red;
+    margin-top: 20px;
+    font-weight: 900;
+}
+
+.thead{
+    color: green;
+    border: 1px solid black;
+    border-top: 0;
+}
+.tbody{
+    text-align: center;
+    color: blueviolet;
+}
+.tbody-date {
+    text-align: left;
+}
+
+#su {
+    border: 5px solid red;
+    margin: 15px;
+    height: 84px;
+    width: 200px;
+}
+.adbtn{
+    background-color: yellowgreen;
+    padding: 2px;
+    height: 80px;
+}
+
